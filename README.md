@@ -1,8 +1,8 @@
 [![REUSE status]()]()
 
-# Contributions to YOUR-DOCUMENTATION
+# Contributions to Administration Guide for Intelligent Situation Automation
 
-Found a mistake in our documentation? Always wanted to add a step in one of our procedures that could save many others much time? Then you're at the right place! All contributions made to the Markdown files in the [docs](docs) directory are reviewed, and if deemed valuable be added to our [official documentation on SAP Help Portal](YOUR-LINK). The easiest way is to start there, and choose _Edit_ to find the right Markdown file to contribute to.
+Found a mistake in our documentation? Always wanted to add a step in one of our procedures that could save many others much time? Then you're at the right place! All contributions made to the Markdown files in the [docs](docs) directory are reviewed, and if deemed valuable be added to our [official documentation on SAP Help Portal](https://help.sap.com/docs/INTELLIGENT_SITUATION_AUT/64b367baf8b346b09702672666b0c0ae/4832a67a390d42ca9f876a1ded9ea84d.html?locale=en-US). The easiest way is to start there, and choose _Edit_ to find the right Markdown file to contribute to.
 
 ## Requirements
 
@@ -11,9 +11,9 @@ For contributions, it's required that you have a GitHub account. For more inform
 
 ## Contributing
 
-We recommend using the YOUR-DOCUMENTATION documentation on SAP Help Portal as a starting point for contributions:
+We recommend using the Administration Guide for Intelligent Situation Automation documentation on SAP Help Portal as a starting point for contributions:
 
-1. Open the [YOUR-DOCUMENTATION Documentation](YOUR-LINK).
+1. Open the [Administration Guide for Intelligent Situation Automation Documentation](https://help.sap.com/docs/INTELLIGENT_SITUATION_AUT/64b367baf8b346b09702672666b0c0ae/4832a67a390d42ca9f876a1ded9ea84d.html?locale=en-US).
 1. You can either:
     * Choose *Edit* to suggest a change for the current page you see in the Help Portal viewer, or
     * Choose *Feedback* to open a GitHub issue in this repository.
