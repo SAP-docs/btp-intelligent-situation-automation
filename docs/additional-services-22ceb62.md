@@ -4,3 +4,4 @@
 
 You need to enable Event Mesh for your SAP BTP subaccount. For more information, see [SAP Event Mesh](https://help.sap.com/viewer/product/SAP_EM/Cloud/en-US).
 
+Do I need a separate licence for Event Mesh? That information is missing.
