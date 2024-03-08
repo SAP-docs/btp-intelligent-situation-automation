@@ -3,7 +3,7 @@
 # Subscribe to Intelligent Situation Automation
 
 To access the user interface, subscribe to the Intelligent Situation Automation service with the standard plan.
-
+Can you please provide a sample code?
 For more information about the subscription process, see the SAP BTP documentation [Subscribe to Multitenant Applications Using the Cockpit](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/7a3e39622be14413b2a4df7c02ca1170.html).
 
 
