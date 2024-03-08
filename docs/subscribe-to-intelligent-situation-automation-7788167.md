@@ -6,12 +6,12 @@ To access the user interface, subscribe to the Intelligent Situation Automation 
 
 For more information about the subscription process, see the SAP BTP documentation [Subscribe to Multitenant Applications Using the Cockpit](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/7a3e39622be14413b2a4df7c02ca1170.html).
 
-
+Can you provide a sample code?
 
 **Prerequisites**
 
 -   You have set up your global account. For more information, refer to [Managing Global Accounts Using the Cockpit](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/667f34ba9222450491c2b848cd17e189.html).
-
+?
 -   You are assigned the Administrator role for the global account.
 
 
