@@ -2,7 +2,7 @@
 
 # Data Export
 
-You can export data stored by Intelligent Situation Automation whenever required. To export data, add `/exportdata` at the end of the base URL.
+You can export data stored by Intelligent Situation Automation whenever required. To export data, add `/exportdata` at the end of the base URL, for example:
 
-For example, `https://<subdomain>.intelligent-situation-automation.cfapps.<region>.hana.ondemand.com/exportdata`
+`https://<subdomain>.<region>.intelligent-situation-automation.cloud.sap/exportdata`
 

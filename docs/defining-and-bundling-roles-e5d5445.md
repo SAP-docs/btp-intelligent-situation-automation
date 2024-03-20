@@ -11,28 +11,20 @@ Intelligent Situation Automation provides the following role templates:
 
 Role Template
 
-
-
 </th>
 <th valign="top">
 
 Description
-
-
 
 </th>
 <th valign="top">
 
 Available Attributes
 
-
-
 </th>
 <th valign="top">
 
 Tiles on SAP Fiori Launchpad
-
-
 
 </th>
 </tr>
@@ -41,25 +33,20 @@ Tiles on SAP Fiori Launchpad
 
 SituationAutomationKeyUser
 
-
-
 </td>
 <td valign="top">
 
 Key user for Intelligent Situation Automation
-
-
 
 </td>
 <td valign="top">
 
 None
 
-
-
 </td>
 <td valign="top">
 
+-   Manage Situation Actions
 -   Manage Situation Automation
 -   Situation Dashboard
 -   Analyze Situations
@@ -75,28 +62,20 @@ None
 
 SituationAutomationAdminUser
 
-
-
 </td>
 <td valign="top">
 
 Admin user for Intelligent Situation Automation 
-
-
 
 </td>
 <td valign="top">
 
 None
 
-
-
 </td>
 <td valign="top">
 
 Onboard System
-
-
 
 </td>
 </tr>

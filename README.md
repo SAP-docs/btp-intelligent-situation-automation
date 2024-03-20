@@ -1,4 +1,4 @@
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-docs/btp-intelligent-situation-automation)](https://api.reuse.software/info/github.com/SAP-docs/btp-intelligent-situation-automation)
+[![REUSE status]()]()
 
 # Contributions to Administration Guide for Intelligent Situation Automation
 
@@ -15,8 +15,8 @@ We recommend using the Administration Guide for Intelligent Situation Automation
 
 1. Open the [Administration Guide for Intelligent Situation Automation Documentation](https://help.sap.com/docs/INTELLIGENT_SITUATION_AUT/64b367baf8b346b09702672666b0c0ae/4832a67a390d42ca9f876a1ded9ea84d.html?locale=en-US).
 1. You can either:
-    * Choose *Edit* to suggest a change for the current page you see in the Help Portal viewer, or
-    * Choose *Feedback* to open a GitHub issue in this repository.
+    * Choose *Feedback* > *Edit page* to suggest a change for the current page you see in the Help Portal viewer, or
+    * Choose *Feedback* > *Create issue* to open a GitHub issue in this repository.
 
 If you only make a small contribution, that's the quickest way to propose a change. For larger contributions, we recommend forking this repository to work locally. The filenames in the [docs](docs) directory are created based on the title of the page on SAP Help Portal.
 
@@ -29,6 +29,10 @@ Adhere to the [SAP Open Source Code of Conduct](https://github.com/SAP-docs/.git
 ## Licensing
 
 See our [LICENSE](LICENSE) for copyright and license information.
+
+
+
+
 
 
 

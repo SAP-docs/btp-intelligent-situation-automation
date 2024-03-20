@@ -10,6 +10,9 @@ New situations created are published as events by the Business Event Handling fr
 
 Ensure that you have `topicRules` configured so that it can send a message to the topic `saas/isa/cons/*`. Intelligent Situation Automation automatically processes situation events published with this topic.
 
+> ### Note:  
+> You need to create the Event Mesh instance in the same subaccount where you've subscribed to Intelligent Situation Automation.
+
 For more information about creating an Event Mesh service instance, see [Create an Event Mesh Service Instance](https://help.sap.com/viewer/bf82e6b26456494cbdd197057c09979f/Cloud/en-US/d0483a9e38434f23a4579d6fcc72654b.html).
 
 

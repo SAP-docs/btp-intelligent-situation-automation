@@ -21,47 +21,35 @@ For Intelligent Situation Automation, you need to:
     <th valign="top">
 
     Role Template
-
-
     
     </th>
     <th valign="top">
 
     Description
-
-
     
     </th>
     </tr>
     <tr>
     <td valign="top">
-
+    
     RuleRepositorySuperUser
-
-
     
     </td>
     <td valign="top">
-
+    
     Author rules
-
-
     
     </td>
     </tr>
     <tr>
     <td valign="top">
-
+    
     SituationAutomationKeyUser
-
-
     
     </td>
     <td valign="top">
-
+    
     Key user for Intelligent Situation Automation
-
-
     
     </td>
     </tr>
@@ -75,31 +63,23 @@ For Intelligent Situation Automation, you need to:
     <th valign="top">
 
     Role Template
-
-
     
     </th>
     <th valign="top">
 
     Description
-
-
     
     </th>
     </tr>
     <tr>
     <td valign="top">
-
+    
     SituationAutomationAdminUser
-
-
     
     </td>
     <td valign="top">
-
+    
     Admin user for Intelligent Situation Automation
-
-
     
     </td>
     </tr>
