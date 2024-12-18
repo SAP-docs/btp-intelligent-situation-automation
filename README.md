@@ -1,4 +1,4 @@
-[![REUSE status]()]()
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-docs/btp-intelligent-situation-automation)](https://api.reuse.software/info/github.com/SAP-docs/btp-intelligent-situation-automation)
 
 # Contributions to Administration Guide for Intelligent Situation Automation
 
