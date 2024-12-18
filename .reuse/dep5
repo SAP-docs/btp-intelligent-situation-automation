@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: btp-intelligent-situation-automation
-Upstream-Contact: Ranjitha Balaraman (ranjitha.balaraman@sap.com)
+Upstream-Contact: Sanghamitra Bhattacharya (sanghamitra.bhattacharya@sap.com)
 Source: https://github.com/sap-docs/btp-intelligent-situation-automation
 
 Files: *
